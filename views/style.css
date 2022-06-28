@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: #4BA3A0;
+}
+
+
+
+.title_main {
+    padding: 50px 50px 50px 50px;
+    background-color: rgb(91, 91, 228);
+}
+
+.title_main h1 {
+    display: inline-block;
+    margin-left: 5%;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 6vw;
+}
+
+.title_main hr {
+    border: none;
+    border-top: 4px dotted #000;
+    width: 30vw;
+    margin-left: 40vw;
+    margin-bottom: 100px;
+    position: relative;
+    top: -22vh;
+}
+
+img.pfp {
+    height: 30%;
+    width: 30%;
+    margin-left: 2vw;
+    vertical-align: middle;
+}
+
+
+/* ================================================================= */
+
+.info {
+    padding-top: 50px;
+    background-color: #4BA3A0;
+    width: 100%;
+    height: 300%;
+}
+
+
+.about td h1 {
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 3vw;
+}
+
+.about td p {
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 1.2vw;
+}
+
+
+
+.about table {
+    margin-left: 0vw;
+}
+
+.about td#about-title {
+    height: 10vh;
+    width: 20vw;
+}
+
+.about table hr {
+    border: none;
+    border-top: 4px dotted #000; 
+    width: 13vw;
+}
